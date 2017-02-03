@@ -33,7 +33,8 @@ Qolor 讓 SQL 語法能夠更好的顯示除錯
 Trailing Spaces 顯示多餘的空白，並且在儲存時刪除。 
 Git Time Machine 用時間來表達 Git 紀錄，很難用文字表達，看一下圖片應該可以懂我的意思 
 ```
-* ```
+
+```
 active-power-mode 參考效果
 color-picker 可以直接選顏色、透明度
 pigments 把色碼的顏色直接顯示
